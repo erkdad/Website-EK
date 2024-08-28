@@ -29,7 +29,7 @@ export const Header = () => {
     { href: "/work", label: "Work" },
     { href: "/about", label: "About" },
     { href: "/contact", label: "Contact" },
-    { href: "/stuff", label: "Stuff" },
+    { href: "/Stuff", label: "Stuff" },
   ];
 
   const toggleTheme = () => {
