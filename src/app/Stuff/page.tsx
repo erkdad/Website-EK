@@ -1,15 +1,37 @@
+"use client";
+import { useRouter } from "next/navigation";
+import Image from "next/image";
+
 export default function Stuff() {
+  const router = useRouter();
+
   return (
     <main className="flex flex-col items-center justify-between p-4 sm:p-6 md:p-8 overflow-hidden mx-auto">
       <div className="flex w-full max-w-[1080px] flex-col space-y-6">
-        <p className="text-xl leading-relaxed">
-          There is hella stuff in heredsdsa!dsadsadsads
-        </p>
-        <iframe
-          width="max"
-          height="500"
-          src="https://www.youtube.com/embed/tgbNymZ7vqY"
-        ></iframe>
+        <div className="text-xl leading-relaxed">
+          <div className="w-24">
+            <Image
+              src="/images/headshot.jpg"
+              alt="Stuff"
+              width={100}
+              height={100}
+              className="cursor-pointer"
+              onClick={() => router.push("/Stuff/videos")}
+            />
+            <p className="flex justify-center">Stuff</p>
+          </div>
+          <div className="w-24">
+            <Image
+              src="/images/headshot.jpg"
+              alt="Stuff"
+              width={100}
+              height={100}
+              className="cursor-pointer"
+              onClick={() => router.push("/Stuff/videos")}
+            />
+            <p className="flex justify-center">Stuff</p>
+          </div>
+        </div>
       </div>
     </main>
   );
