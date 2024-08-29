@@ -8,7 +8,7 @@ export default function Stuff() {
   return (
     <main className="flex flex-col items-center justify-between p-4 sm:p-6 md:p-8 overflow-hidden mx-auto">
       <div className="flex w-full max-w-[1080px] flex-col space-y-6">
-          <div className="w-24">
+          <div className="w-max">
             <Image
               src="/images/VideoIMG.svg"
               alt="Stuff"
@@ -19,7 +19,7 @@ export default function Stuff() {
             />
             <p className="flex justify-center">_001</p>
           </div>
-          <div className="w-24">
+          <div className="w-max">
             <Image
               src="/images/PhotoIMG.svg"
               alt="Stuff"
