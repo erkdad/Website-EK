@@ -11,7 +11,7 @@ export default function Stuff() {
         <div className="text-xl leading-relaxed">
           <div className="w-24">
             <Image
-              src="/images/headshot.jpg"
+              src="/images/VideoIMG.svg"
               alt="Stuff"
               width={100}
               height={100}
