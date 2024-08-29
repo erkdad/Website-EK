@@ -18,8 +18,6 @@ export default function Stuff() {
               onClick={() => router.push("/Stuff/videos")}
             />
             <p className="flex justify-center">_001</p>
-          </div>
-          <div className="w-max">
             <Image
               src="/images/PhotoIMG.svg"
               alt="Stuff"
