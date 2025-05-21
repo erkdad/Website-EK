@@ -4,8 +4,8 @@ export default function W1() {
       <div className="flex w-full max-w-[1080px] flex-col space-y-6">
         <p className="text-xl leading-relaxed">Week 1 Text goes here</p>
         <image 
-              src="\images\W1_Camp Island 2.png"
-              alt="Idk"
+              src="/images/W1_Camp Island 2.png"
+              alt="First Camp Topper"
               width="max"
               height="auto"
         />
