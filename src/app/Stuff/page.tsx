@@ -33,7 +33,7 @@ export default function Stuff() {
               width={100}
               height={100}
               className="cursor-pointer"
-              onClick={() => router.push("/Stuff/videos")}
+              onClick={() => router.push("/Stuff/W1")}
             />
             <p className="flex justify-center">W1</p>
           </div>
