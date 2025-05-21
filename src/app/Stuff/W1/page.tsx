@@ -6,8 +6,6 @@ export default function W1() {
         <image 
               src="/images/W1_Camp Island 2.png"
               alt="First Camp Topper"
-              width= {100%}
-              Height= {100%}
         />
       </div>
     </main>
