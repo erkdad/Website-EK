@@ -10,7 +10,7 @@ export default function W1() {
           in, to prove i can do it. last night i was up until 12:30 trying to put a dang image on this page, 
           and im still trying. If it isnt here when you see this, i still havent figured it out.
         </p>
-        <p> <img src="public\images\W1x2.png" alt="Description of Image"></img></p>
+        <p> <img src="images\W1x2.png" alt="Description of Image"></img></p>
         <p className="text-xl leading-relaxed"> Last week had my family up visiting the cottage in thunder beach, 
           a 24 hour stake out on an island, and some runs n bikes up in the trails here. On one of my runs in the 
           Dorian trails, i realized the path was meant for mountain bikes, fast moutain bikes. Soon enough
