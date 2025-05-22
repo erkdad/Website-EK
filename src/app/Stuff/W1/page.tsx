@@ -33,7 +33,10 @@ export default function W1() {
 
         <p className="text-xl leading-relaxed"> talk to the random guy who is passing you. </p>
         <p> <img src="/images/W1_Camp island 1.png" alt="Description of Image1"></img></p>
-        <p> <img src="/images/W1x2.png" alt="Description of Image2"></img></p>
+        <p> <img src="/images/W1_DSCF7016.JPG" alt="Description of Image3"></img></p>
+        <p> <img src="/images/W1_DSCF7027.JPG" alt="Description of Image4"></img></p>
+        <p> <img src="/images/W1_DSCF7062.JPG" alt="Description of Image5"></img></p>
+        <p> <img src="/images/W1_DSCF7066.JPG" alt="Description of Image6"></img></p>
         <p className="text-xl leading-relaxed"> 05.21.2025 EK </p>
       </div>
     </main>
