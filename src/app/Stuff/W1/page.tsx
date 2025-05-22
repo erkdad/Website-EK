@@ -20,7 +20,7 @@ export default function W1() {
           when youre going to recieve the most crucial tips for your own life. Explore more, try a new trail, and talk
           to the random guy whos passing you.
         </p>
-        <p className="text-xl leading-relaxed"> One more note i'll leave here is my recent appreciation for a meeting i had
+        <p className="text-xl leading-relaxed"> One more note ill leave here is my recent appreciation for a meeting i had
           with a random runner at the running store a week before my ultra. Josh Lynott is an aussie that was doing a book 
           tour in canada and had a stop in london. He wrote a book that is poetry for runners; &quot;a note to the runners&quot;. 
           He let me borrow his salomon shorts so i could try these shoes i never wore before i strapped them up for a big one.
