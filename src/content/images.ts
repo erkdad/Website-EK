@@ -62,12 +62,20 @@ export const mainGalleryImages: ImageJSON[] = [
     title: "PBJ",
     description: "Lunch Prep. 9x12 Oil",
   },
-  {
+ {
     id: 6,
     thumbnailURL: "/images/Shoes.jpg",
     fullSizeURL: "/images/Shoes.jpg",
     alt: "Image 6",
     title: "Boots",
     description: "Worn in leather. 9x12 Oil",
-  },
+  }, 
+   {
+    id: 8,
+    thumbnailURL: "/images/W2/paint1_phone.jpg",
+    fullSizeURL: "/images/W2/paint1_phone.jpg",
+    alt: "Image 8",
+    title: "Willamina's Tree",
+    description: "Stopped on the side of the road to paint the tree",
+  }, 
 ];
