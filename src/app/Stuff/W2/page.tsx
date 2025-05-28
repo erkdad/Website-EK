@@ -6,7 +6,7 @@ export default function W2() {
       <div className="flex w-full max-w-[1080px] flex-col space-y-6">
         <p className="text-xl leading-relaxed">this is live
         </p>
-        <p> <img src="/images/W1_DSCF7066.JPG" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W2/paint1_phone.jpg" alt="Description of Image6"></img></p>
         <p className="text-xl leading-relaxed"> 05.28.2025 EK </p>
       </div>
     </main>
