@@ -36,6 +36,16 @@ export default function Stuff() {
               onClick={() => router.push("/Stuff/W1")}
             />
             <p className="flex justify-center">W1</p>
+             <Image
+              src="/images/Week2_Logo.svg"
+              alt="Stuff"
+              width={100}
+              height={100}
+              className="cursor-pointer"
+              onClick={() => router.push("/Stuff/W1")}
+            />
+            <p className="flex justify-center">W2</p>
+            
           </div>
       </div>
     </main>
