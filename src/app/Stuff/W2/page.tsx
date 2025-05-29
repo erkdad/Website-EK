@@ -17,17 +17,18 @@ export default function W2() {
         evening after a rainy predicted weekend!</p>
 
         <p> <img src="/images/W2/Fwends.jpg" alt="Description of Image6"></img></p>
+        <p main className="flex flex-col items-center justify-start p-4 sm:p-6 md:p-8 overflow-hidden mx-auto">
                     <Image
                       src="/images/W2/f1.jpg"
                       alt="Stuff"
                       width={100}
                       height={100}
                       />
-
-        <p className="text-xl leading-relaxed">Wanted to go out an paint a sloping landscape with Willamina. Her first Plein air!</p>
+        </p>
+        <p className="text-xl leading-relaxed">Wanted to go out and paint a sloping landscape with Willamina. Her first Plein air!</p>
         <p> <img src="/images/W2/Paint1.jpg" alt="Description of Image6"></img></p>
 
-        <p className="text-xl leading-relaxed">kept up the stoke and went to paint the church in Lafontaine. Ended up finding this truck parked out back and couldnt help it.</p>
+        <p className="text-xl leading-relaxed">Kept up the stoke and went to paint the church in Lafontaine. Ended up finding this truck parked out back and couldnt help it.</p>
         <p> <img src="/images/W2/Paint2.jpg" alt="Description of Image6"></img></p>
 
 
