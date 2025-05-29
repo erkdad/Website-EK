@@ -17,7 +17,7 @@ export default function W2() {
         evening after a rainy predicted weekend!</p>
 
         <p> <img src="/images/W2/Fwends.jpg" alt="Description of Image6"></img></p>
-        p> <img src="/images/W2/F1.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W2/F1.jpg" alt="Description of Image6"></img></p>
 
         <p className="text-xl leading-relaxed">Wanted to go out an paint a sloping landscape with Willamina. Her first Plein air!</p>
         <p> <img src="/images/W2/Paint1.jpg" alt="Description of Image6"></img></p>
