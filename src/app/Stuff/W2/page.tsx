@@ -17,7 +17,7 @@ export default function W2() {
         evening after a rainy predicted weekend!</p>
 
         <p> <img src="/images/W2/Fwends.jpg" alt="Description of Image6"></img></p>
-        <p main className="flex flex-col items-center">
+        <p className="flex flex-col items-center">
                     <Image
                       src="/images/W2/f1.jpg"
                       alt="Stuff"
