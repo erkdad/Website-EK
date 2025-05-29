@@ -6,7 +6,7 @@ export default function W2() {
       <div className="flex w-full max-w-[1080px] flex-col space-y-6">
         <p className="text-xl leading-relaxed">Week 2!!</p>
 
-        <p className="text-xl leading-relaxed">This week is out last week at our spot in Tiny; Thunder Beach has been nice to us. Cant believe
+        <p className="text-xl leading-relaxed">This week is our last week at our spot in Tiny; Thunder Beach has been nice to us. Cant believe
           how fast these 5 month went by. Feels like Jan 1st was yesterday. Through all the snow storms, rainy days, and gorgeous sunny ones, this place built character.
           i am gonna miss being surrounded by wood, and feeling the airy high ceilings. We were living like royalty in 2025. Next stop Collingwood! 
 
@@ -19,7 +19,7 @@ export default function W2() {
         <p> <img src="/images/W2/Fwends.jpg" alt="Description of Image6"></img></p>
                     <Image
                       src="/images/W2/f1.jpg"
-                      
+                      alt="Stuff"
                       width={100}
                       height={100}
                       />
