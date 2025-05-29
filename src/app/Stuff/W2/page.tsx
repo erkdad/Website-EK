@@ -36,6 +36,11 @@ export default function W2() {
         <p> <img src="/images/W2/SF Streetz.jpg" alt="Description of Image6"></img></p>
         <p> <img src="/images/W2/Bins.jpg" alt="Description of Image6"></img></p>
 
+
+        <p> <img src="/images/W2/Schematic-representation-of-small-modular-reactor-SMR.png" alt="Description of Image6"></img></p>
+
+
+
         <p className="text-xl leading-relaxed"> 05.28.2025 EK </p>
       </div>
     </main>
