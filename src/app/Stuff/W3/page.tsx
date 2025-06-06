@@ -8,7 +8,7 @@ export default function W3() {
 
         <p className="text-xl leading-relaxed">The past week has been filled with moving parts, stalled cars, and fast bikes.
           On the way back to my hometown this weekend, my car stalled and wouldnt turn back on. Luckily we were close to home and i could get the car towed and
-          a ride for willamina and i. The car was new to me 2 months ago, so the warranty will cover the damages as i know now. My motorcycle came out
+          a ride for willamina and i. The car was new to me 2 months ago, so the warranty will cover the damages... as i know now. My motorcycle came out
           of the garage for good this weekend with some good riding down country roads and into the city. Going fast on 2 wheels is a high i hope to keep for a 
           long time coming.
         </p>
@@ -26,13 +26,13 @@ export default function W3() {
         <p className="text-xl leading-relaxed">how can you write more? why is it hard to journal?</p>
         <p className="text-xl leading-relaxed">Writing can be hard sometimes. Whether you feel like 
           what youre writing isnt worth recording, or that your mind has a tough time putting words 
-          to the emotions you felt. this is espacially true if the time between journaling and the 
+          to the emotions you felt. This is espacially true if the time between journaling and the 
           events is far apart. Emotions eb and flow, change directions, and are impacted 
           by new stimulus. The thoughts you have today are likely to be somewhat altered tomorrow.</p>
           <p className="text-xl leading-relaxed">why should you care about this? </p>
           <p className="text-xl leading-relaxed">To me, i hope that i can remember life how i lived it; the feelings, 
             the wonder, the unexpected beauties, and especially the shared connections. Recording this gives attention
-             to your lifes course and lets you look back intentionally. The idea of living a life that has a story to
+             to your life&apos;s course and lets you look back intentionally. The idea of living a life that has a story to
               read back on sounds more tangible to me. I myself feel sad when i cant recall what i did during the past
                week; it feels wasted as there are no memories attached to it.</p>
                <p className="text-xl leading-relaxed">How can i write more without thinking about it?</p>
