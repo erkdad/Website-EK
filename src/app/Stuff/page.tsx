@@ -8,7 +8,7 @@ export default function Stuff() {
   return (
     <main className="flex flex-col items-center justify-between p-4 sm:p-6 md:p-8 overflow-hidden mx-auto">
       <div className="flex w-full max-w-[1080px] flex-col space-y-6">
-          <div className="w-max">
+          <div className="flex flex-col items-center">
             <Image
               src="/images/VideoIMG.svg"
               alt="Stuff"
@@ -17,7 +17,6 @@ export default function Stuff() {
               className="cursor-pointer"
               onClick={() => router.push("/Stuff/videos")}
             />
-            <p className="flex justify-center">_001</p>
             <Image
               src="/images/PhotoIMG.svg"
               alt="Stuff"
@@ -26,7 +25,6 @@ export default function Stuff() {
               className="cursor-pointer"
               onClick={() => router.push("/Stuff/videos")}
             />
-            <p className="flex justify-center">_002</p>
             <Image
               src="/images/Week1_Logo.svg"
               alt="Stuff"
@@ -35,7 +33,6 @@ export default function Stuff() {
               className="cursor-pointer"
               onClick={() => router.push("/Stuff/W1")}
             />
-            <p className="flex justify-center">W1</p>
              <Image
               src="/images/Week2_Logo.svg"
               alt="Stuff"
@@ -44,8 +41,6 @@ export default function Stuff() {
               className="cursor-pointer"
               onClick={() => router.push("/Stuff/W2")}
             />
-            <p className="flex justify-center">W2</p>
-
              <Image
               src="/images/Week3_Logo.svg"
               alt="Stuff"
@@ -53,9 +48,7 @@ export default function Stuff() {
               height={100}
               className="cursor-pointer"
               onClick={() => router.push("/Stuff/W3")}
-            />
-            <p className="flex justify-center">W3</p>
-            
+            />  
           </div>
       </div>
     </main>
