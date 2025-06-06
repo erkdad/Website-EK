@@ -25,14 +25,14 @@ export default function Stuff() {
               className="cursor-pointer"
               onClick={() => router.push("/Stuff/videos")}
             />
-            <Image
-              src="/images/Week1_Logo.svg"
+             <Image
+              src="/images/Week3_Logo.svg"
               alt="Stuff"
               width={100}
               height={100}
               className="cursor-pointer"
-              onClick={() => router.push("/Stuff/W1")}
-            />
+              onClick={() => router.push("/Stuff/W3")}
+            /> 
              <Image
               src="/images/Week2_Logo.svg"
               alt="Stuff"
@@ -42,13 +42,13 @@ export default function Stuff() {
               onClick={() => router.push("/Stuff/W2")}
             />
              <Image
-              src="/images/Week3_Logo.svg"
+              src="/images/Week1_Logo.svg"
               alt="Stuff"
               width={100}
               height={100}
               className="cursor-pointer"
-              onClick={() => router.push("/Stuff/W3")}
-            />  
+              onClick={() => router.push("/Stuff/W1")}
+            /> 
           </div>
       </div>
     </main>
