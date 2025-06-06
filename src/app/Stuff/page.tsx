@@ -36,7 +36,7 @@ export default function Stuff() {
              <Image
               src="/images/Week2_Logo.svg"
               alt="Stuff"
-              width={100}
+              width={200}
               height={100}
               className="cursor-pointer"
               onClick={() => router.push("/Stuff/W2")}
@@ -44,7 +44,7 @@ export default function Stuff() {
              <Image
               src="/images/Week1_Logo.svg"
               alt="Stuff"
-              width={100}
+              width={200}
               height={100}
               className="cursor-pointer"
               onClick={() => router.push("/Stuff/W1")}
