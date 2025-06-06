@@ -15,6 +15,9 @@ export default function W3() {
         <p> <img src="/images/W3/BIKES.png" alt="Description of Image6"></img></p>
         <p className="text-xl leading-relaxed"> BIKES YA HEARD
         </p>
+        <p className="text-xl leading-relaxed"> WILLI AND I MADE IT TO DELAWARE and WENT TO MOMS BARN
+        </p>
+        <p> <img src="/images/W3/Willi2.png" alt="Description of Image6"></img></p>
 
 
         <p className="text-xl leading-relaxed">how can you write more? why is it hard to write?</p>
@@ -41,7 +44,7 @@ export default function W3() {
                <p className="text-xl leading-relaxed">I dont mean to write down everything i do. I just want the 
                 access to record immediatley if i feel the urge to, rather than having to dig up an old book to write days 
                 later. just like bringing a water bottle on a hike incase you get thirsty. </p>
-               <p className="text-xl leading-relaxed">why should you care about this? </p>
+               <p className="text-xl leading-relaxed">have a good week!</p>
 
 
         <p className="text-xl leading-relaxed"> 06.05.2025 EK </p>
