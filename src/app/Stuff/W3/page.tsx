@@ -49,6 +49,8 @@ export default function W3() {
                 later. just like bringing a water bottle on a hike incase you get thirsty. </p>
 
 
+              <p> <img src="/images/W3/time.jpg" alt="Description of Image6"></img></p>
+
                <p className="text-xl leading-relaxed">have a good week! PCE N LUV</p>
 
 
