@@ -6,7 +6,7 @@ export default function Videos() {
         <iframe
           width="max"
           height="500"
-          src="https://www.youtube.com/embed/k9Oik67BATM&pp"
+          src="https://www.youtube.com/embed/k9Oik67BATM?si=BOJhIZRheVbuTMXw"
         ></iframe>
       </div>
     </main>
