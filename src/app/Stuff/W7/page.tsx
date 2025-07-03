@@ -6,6 +6,9 @@ export default function W7() {
       <div className="flex w-full max-w-[1080px] flex-col space-y-6">
       <p> <img src="/images/W7/My Movie 7.mov" alt="Description of Image6"></img></p>
 
+      <video controls autoplay>
+      <source src="/images/W7/My Movie 7.mov" type="video/quicktime"></source>
+      </video>
        <p className="text-xl leading-relaxed"> Week 7 and time do be flying!
 
         </p>
