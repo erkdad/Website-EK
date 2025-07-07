@@ -19,11 +19,11 @@ export default function W7() {
         </p>
         <p className="text-xl leading-relaxed"> for now, here are some pictures instead! 
         </p>
-        <p> <img src="/images/W7/IMG_8567.jpg.jpg" alt="Description of Image6"></img></p>
-        <p> <img src="/images/W7/IMG_8571.jpg.jpg" alt="Description of Image6"></img></p>
-        <p> <img src="/images/W7/IMG_8580.jpg.jpg" alt="Description of Image6"></img></p>
-        <p> <img src="/images/W7/IMG_8581.jpg.jpg" alt="Description of Image6"></img></p>
-        <p> <img src="/images/W7/IMG_8582.jpg.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W7/IMG_8567.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W7/IMG_8571.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W7/IMG_8580.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W7/IMG_8581.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W7/IMG_8582.jpg" alt="Description of Image6"></img></p>
         <p> <img src="/images/W7/unnamed.jpg" alt="Description of Image6"></img></p>
 
         <p className="text-xl leading-relaxed"> since moving to collingwood, i have yet to get out painting in the streets and the highlands. after work i usually
