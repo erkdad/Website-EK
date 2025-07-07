@@ -17,8 +17,15 @@ export default function W7() {
           2 portages and 2 canoes, 4 of us made it to the campsite where we saw turtles, went swimming to islands, rope swung,  floated above the underwater cities and drifted into the sunshine.
           being my first portage trip, it was an outstanding success and i hope to get back out there again. maybe next time ill clean the fish to eat.
         </p>
-        <p className="text-xl leading-relaxed"> for now, here are some pictures instead!
+        <p className="text-xl leading-relaxed"> for now, here are some pictures instead! 
         </p>
+        <p> <img src="/images/W7/IMG_8567.jpg.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W7/IMG_8571.jpg.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W7/IMG_8580.jpg.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W7/IMG_8581.jpg.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W7/IMG_8582.jpg.jpg" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W7/unnamed.jpg" alt="Description of Image6"></img></p>
+
         <p className="text-xl leading-relaxed"> since moving to collingwood, i have yet to get out painting in the streets and the highlands. after work i usually
           put pressure on myself to explore or get active. a new practice in mind is to go out and paint the morning light! striking shadows as the sun is rising will be a great way
           to start the day with colour meditation. i find when i paint in the evenings, i have it on my mind all day and have a tough time focusing on work or other tasks. in the morning
