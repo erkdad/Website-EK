@@ -5,8 +5,7 @@ export default function W8() {
     <main className="flex flex-col items-center justify-between p-4 sm:p-6 md:p-8 overflow-hidden mx-auto">
       <div className="flex w-full max-w-[1080px] flex-col space-y-6">
        <p className="text-xl leading-relaxed">This past week went by at a good pace. 
-
-It began, on this blog schedule, with some painting at blue mountain in the morning. 
+        It began, on this blog schedule, with some painting at blue mountain in the morning. 
 In about 60 minutes I came out with a 12x16 painting that I was happy with. 
 This gave me a high that lasted a long time. Simple is subject nature yet and expanded view
 , the image i left with was something to encourage more morning sessions. Today I went out 
@@ -24,7 +23,7 @@ I was getting overwhelmed with the sketch I had started and chose to give up sli
     Willamina hit up the golf course for her second round and found some green! </p>
 
     <p> <img src="/images/W8/810FD0A4-3B69-4A6F-B7AD-021DF78B8959-3798-0000023B633B4805.jpg" alt="Description of Image6"></img></p>
-    <p> <img src="/images/W8/SWAGGOLF.png" alt="Description of Image6"></img></p>
+    <p> <img src="/images/W8/SWAGGOLF.png" alt="Description of Image6"></img></p> 
     
 
 <p className="text-xl leading-relaxed">Last night I rode the red bike through the mountains and found a good
