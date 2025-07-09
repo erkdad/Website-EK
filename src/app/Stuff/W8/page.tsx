@@ -39,7 +39,7 @@ I was getting overwhelmed with the sketch I had started and chose to give up sli
 
         <p> <img src="/images/W8/VOLVO.png" alt="Description of Image6"></img></p>
 
-<p className="text-xl leading-relaxed">This Friday is Willaminas birthday and I couldn't be more appreciative of her company over the past 9 months.
+<p className="text-xl leading-relaxed">This Friday is Willaminas birthday and I couldnt be more appreciative of her company over the past 9 months.
    She has renewed my thoughts about life and the world that surrounds me! thank you WILLI !! </p> 
 
         <p> <img src="/images/W8/HBDW2.png" alt="Description of Image6"></img></p>
