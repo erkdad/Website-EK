@@ -58,15 +58,8 @@ I was getting overwhelmed with the sketch I had started and chose to give up sli
 <p className="text-xl leading-relaxed">44.49911867512276, -80.21578225893549</p>
 
 
-        <p> <img src="/images/W7/IMG_8567.jpg" alt="Description of Image6"></img></p>
-        <p> <img src="/images/W7/IMG_8571.jpg" alt="Description of Image6"></img></p>
-        <p> <img src="/images/W7/IMG_8580.jpg" alt="Description of Image6"></img></p>
-        <p> <img src="/images/W7/IMG_8581.jpg" alt="Description of Image6"></img></p>
-        <p> <img src="/images/W7/IMG_8582.jpg" alt="Description of Image6"></img></p>
-        <p> <img src="/images/W7/unnamed.jpg" alt="Description of Image6"></img></p>
 
-
-        <p className="text-xl leading-relaxed"> 07.09.2025 EK . Stayin curious!
+        <p className="text-xl leading-relaxed"> 07.09.2025 EK . YUHH
         </p>
       </div>
     </main>
