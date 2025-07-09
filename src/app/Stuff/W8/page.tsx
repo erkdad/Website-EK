@@ -2,7 +2,6 @@ import Image from "next/image";
 
 export default function W8() {
   return (
-    <main className="flex w-full">
       <div className="flex w-full max-w-[2100px] flex-col space-y-6">
        <p className="text-xl leading-relaxed">This past week went by at a good pace. 
         It began, on this blog schedule, with some painting at blue mountain in the morning. 
@@ -60,6 +59,5 @@ I was getting overwhelmed with the sketch I had started and chose to give up sli
 
       <p className="text-xl leading-relaxed"> 07.09.2025 EK . YUHH</p>
       </div>
-    </main>
   );
 }
