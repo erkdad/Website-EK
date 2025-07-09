@@ -32,7 +32,7 @@ I was getting overwhelmed with the sketch I had started and chose to give up sli
    state consciousness in the winding roads and gravel paths in the trees! Riding downhill at 100kmh is quite a 
    different feeling than riding a flat…</p>
 
-        <p> <img src="/images/W8/BIKERS.png" alt="Description of Image6"></img></p>
+        <p> <img src="/images/W8/BIKERS.jpg" alt="Description of Image6"></img></p>
 
         <p className="text-xl leading-relaxed">Also, the homie Ryan just drove to chicago to pick up his 240. I appreciate people who like what they like and are willing to push for it. I have been subtly looking at 
    240 ads over the past week, check this shit out! Thew second photo is the last 240 ever made…</p>
