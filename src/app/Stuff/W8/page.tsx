@@ -29,7 +29,7 @@ I was getting overwhelmed with the sketch I had started and chose to give up sli
     <p> <img src="/images/W8/SWAGGOLF.png" alt="Description of Image6"></img></p> 
 
     <p className="text-xl leading-relaxed">Last night I rode the red bike through the mountains and found a good
-   state consciousness in the winding round and grave; paths in the trees! Riding downhill at 100km/h is quite a 
+   state consciousness in the winding roads and gravel paths in the trees! Riding downhill at 100kmh is quite a 
    different feeling than riding a flat…</p>
 
         <p> <img src="/images/W8/BIKERS.png" alt="Description of Image6"></img></p>
