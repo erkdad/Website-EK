@@ -17,16 +17,33 @@ I was getting overwhelmed with the sketch I had started and chose to give up sli
   struggled no matter what. This week I hope to realize perspective issues within my own work and learn from
    other paintings I enjoy looking at! </p>
 
+   <p> <img src="/images/W8/IMG_8603.jpg" alt="Description of Image6"></img></p>
+
 <p className="text-xl leading-relaxed">Time was also spent going to and from Grand Bend,
    and some time with the family. Found the beach during some hot summer days and got my tan maxed out.
     Willamina hit up the golf course for her second round and found some green! </p>
+
+    <p> <img src="/images/W8/810FD0A4-3B69-4A6F-B7AD-021DF78B8959-3798-0000023B633B4805.jpg" alt="Description of Image6"></img></p>
+    <p> <img src="/images/W8/SWAGGOLF.png" alt="Description of Image6"></img></p>
+    
 
 <p className="text-xl leading-relaxed">Last night I rode the red bike through the mountains and found a good
    state consciousness in the winding round and grave; paths in the trees! Riding downhill at 100km/h is quite a 
    different feeling than riding a flat…</p>
 
-<p className="text-xl leading-relaxed">This Friday is Willamina’s birthday and I couldn't be more appreciative of her company over the past 9 months.
+<p> <img src="/images/W8/BIKERS.png" alt="Description of Image6"></img></p>
+   
+
+   <p className="text-xl leading-relaxed"></p>Also, the homie Ryan just drove to chicago to pick up his 240. I appreciate people who like what they like and are willing to push for it. I have been subtly looking at 
+   240 ads over the past week, check this shit out! Thew second photo is the last 240 ever made…</p>
+
+   <p> <img src="/images/W8/VOLVO.png" alt="Description of Image6"></img></p>
+
+<p className="text-xl leading-relaxed">This Friday is Willaminas birthday and I couldn't be more appreciative of her company over the past 9 months.
    She has renewed my thoughts about life and the world that surrounds me! thank you WILLI !! </p> 
+
+   <p> <img src="/images/W8/HBDW2.png" alt="Description of Image6"></img></p>
+  
 
 <p className="text-xl leading-relaxed">44.99360986514778, -79.20174297179162</p>
 
