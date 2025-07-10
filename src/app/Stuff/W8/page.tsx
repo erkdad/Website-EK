@@ -35,7 +35,7 @@ I was getting overwhelmed with the sketch I had started and chose to give up sli
         <p> <img src="/images/W8/BIKERS.jpg" alt="Description of Image6"></img></p>
 
         <p className="text-xl leading-relaxed">Also, the homie Ryan just drove to chicago to pick up his 240. I appreciate people who like what they like and are willing to push for it. I have been subtly looking at 
-   240 ads over the past week, check this shit out! Thew second photo is the last 240 ever made…</p>
+   240 ads over the past week, check this shit out! The third photo is the last 240 ever made…</p>
 
         <p> <img src="/images/W8/VOLVO.png" alt="Description of Image6"></img></p>
 
