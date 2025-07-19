@@ -18,7 +18,7 @@ export default function W9() {
        <p className="text-xl leading-relaxed"></p>
 
         
-<p> <img src="/images/W8/IMG_8603.jpg" alt="Description of Image6"></img></p>
+<p> <img src="/images/W9/Landscape.png" alt="Description of Image6"></img></p>
 
 
       <p className="text-xl leading-relaxed"> 07.09.2025 EK . YUHH</p>
