@@ -21,7 +21,7 @@ export default function W9() {
 <p> <img src="/images/W9/Landscape.png" alt="Description of Image6"></img></p>
 
 
-      <p className="text-xl leading-relaxed"> 07.09.2025 EK . YUHH</p>
+      <p className="text-xl leading-relaxed"> 07.19.2025 EK . EYES WIDE OPEN</p>
 
       </div>
      </main>
