@@ -15,12 +15,12 @@ I definitely find use in that, a meditational weekly episode for my mind to chew
 
   <p className="text-xl leading-relaxed">I was reflecting on some good memories earlier this week; insert Europe 2022!</p>
 
-<p> <img src="/images/W10/DSCF4990.png" alt="Description of Image6"></img></p>
-<p> <img src="/images/W10/DSCF4985.png" alt="Description of Image6"></img></p>
-<p> <img src="/images/W10/DSCF4910.png" alt="Description of Image6"></img></p>
-<p> <img src="/images/W10/DSCF4759.png" alt="Description of Image6"></img></p>
-<p> <img src="/images/W10/DSCF4841.png" alt="Description of Image6"></img></p>
-<p> <img src="/images/W10/DSCF4999.png" alt="Description of Image6"></img></p>
+<p> <img src="/images/W10/DSCF4990.jpg" alt="Description of Image6"></img></p>
+<p> <img src="/images/W10/DSCF4985.jpg" alt="Description of Image6"></img></p>
+<p> <img src="/images/W10/DSCF4910.jpg" alt="Description of Image6"></img></p>
+<p> <img src="/images/W10/DSCF4759.jpg" alt="Description of Image6"></img></p>
+<p> <img src="/images/W10/DSCF4841.jpg" alt="Description of Image6"></img></p>
+<p> <img src="/images/W10/DSCF4999.jpg" alt="Description of Image6"></img></p>
 
 <p className="text-xl leading-relaxed">Over the past week, my mind has been set on learning the immense WindPro software to encourage the company to open business in wind siting. With the current age of software and online resources, anyone willing to spend the time on something they love can work their way into action. The payment method is time, attention, and focus. I hope I can answer questions like:  </p>
 <p className="text-xl leading-relaxed">How to optimize a wind resource area given the intended hub height?  </p>
