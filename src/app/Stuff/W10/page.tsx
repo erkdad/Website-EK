@@ -9,7 +9,7 @@ export default function W10() {
 
 
 
-         <p> <a href="https://www.openai.com"><span className="font-semibold">LINK TO OPEN AI</span></a></p>
+         <p> The website for WindPro can be found <a href="https://www.emd-international.com/software/windpro"><span className="font-semibold">HERE</span></a></p>
 
       </div>
      </main>
