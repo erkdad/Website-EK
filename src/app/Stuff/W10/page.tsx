@@ -29,7 +29,7 @@ I definitely find use in that, a meditational weekly episode for my mind to chew
          <p className="text-xl leading-relaxed">These are fun analysis questions to ponder when looking at the aerial imagery of the earth. how to harness wind to produce energy for the surrounding grid! Energy Transition in real time.</p>
          
          <p className="text-xl leading-relaxed"> The website for WindPro can be found <a href="https://www.emd-international.com/software/windpro"><span className="font-semibold">HERE</span></a></p>
-
+          <p className="text-xl leading-relaxed">07.25.2025 Lets keep a record!</p>
       </div>
      </main>
   );
