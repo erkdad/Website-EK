@@ -9,7 +9,7 @@ export default function W10() {
 
 
 
-         <p>Testing Hyperlink: Visit <a href="https://www.openai.com">OpenAI</a> for more information.</p>
+         <p> <a href="https://www.openai.com"><span className="font-semibold">LINK TO OPEN AI</span></a></p>
 
       </div>
      </main>
