@@ -27,7 +27,7 @@ export default function W11() {
          <p className="text-xl leading-relaxed"> The past week had some day 1s come visit for some heavy planned action. We found ourselves at the Devils Glen for some rock torture. Toivenen set the meanest 10d i have ever crimped, had to give him a hug for that. Found a 5.8 with the first draw at approximately 20ft and NO STICK CLIP… After a short amount of terror the anchor was speed bagged. Following that we had a reunion run with Brian at Osler. The forest was golden and showered us with some heavy reflections which grew our boy bonds. see some of the results below;</p>
          <p> <img src="/images/W11/4CB81D62-B5C7-4677-9020-27B09755D656-1290-00000033A641635F.jpeg" alt="Description of Image6"></img></p>
          <p> <img src="/images/W11/IMG_8766.jpeg" alt="Description of Image6"></img></p>
-         <p className="text-xl leading-relaxed"> 08.01.2025 flyinbytooooofast... be mindful</p>
+         <p className="text-xl leading-relaxed"> 08.01.2025 flyinbytooooofast... be mindful!</p>
       </div>
      </main>
   );
