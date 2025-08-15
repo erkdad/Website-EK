@@ -7,6 +7,8 @@ export default function W11() {
 
          <p className="text-xl leading-relaxed"> WEEK tuwelv coming </p>
 
+         <p> <img src="/images/W12/IMG_8971.png" alt="Description of Image6"></img></p>
+
          <p className="text-xl leading-relaxed"> 08.08.2025 StAy Stoked !!</p>
       </div>
      </main>
