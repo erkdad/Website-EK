@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function W11() {
+export default function W13() {
   return (
      <main className="flex w-full">
       <div className="flex w-full max-w-[2100px] flex-col space-y-6">
