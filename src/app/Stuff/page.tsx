@@ -55,7 +55,7 @@ export default function Stuff() {
               width={200}
               height={100}
               className="cursor-pointer"
-              onClick={() => router.push("/Stuff/W13")}
+              onClick={() => router.push("/Stuff/W14")}
             />
             <Image
               src="/images/Week13_Logo.svg"
