@@ -17,7 +17,7 @@ export default function W3() {
         </p>
         <p className="text-xl leading-relaxed"> WILLI AND I MADE IT TO DELAWARE and WENT TO MOMS BARN
         </p>
-        <p> <img src="/images/W3/Willi2.png" alt="Description of Image6"></img></p>
+      
         <p className="text-xl leading-relaxed">ON OUR DRIVE WE SAW THIS COOL HOUSE! DREAMING OF A COMPOUND IN THE FOREST</p>
 
         <p> <img src="/images/W3/COOLHOUSE.png" alt="Description of Image6"></img></p>
