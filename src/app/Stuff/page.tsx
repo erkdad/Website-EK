@@ -31,7 +31,7 @@ export default function Stuff() {
               width={200}
               height={100}
               className="cursor-pointer"
-              onClick={() => router.push("/Stuff/W13")}
+              onClick={() => router.push("/Stuff/W17")}
             />
             <Image
               src="/images/Week16_Logo.svg"
@@ -39,7 +39,7 @@ export default function Stuff() {
               width={200}
               height={100}
               className="cursor-pointer"
-              onClick={() => router.push("/Stuff/W13")}
+              onClick={() => router.push("/Stuff/W16")}
             />
             <Image
               src="/images/Week15_Logo.svg"
@@ -47,7 +47,7 @@ export default function Stuff() {
               width={200}
               height={100}
               className="cursor-pointer"
-              onClick={() => router.push("/Stuff/W13")}
+              onClick={() => router.push("/Stuff/W15")}
             />
             <Image
               src="/images/Week14_Logo.svg"
