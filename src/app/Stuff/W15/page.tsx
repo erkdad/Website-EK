@@ -12,7 +12,7 @@ export default function W15() {
          <p className="text-xl leading-relaxed">On Friday night, the flight was booked and headed out of London to Victoria with a stop in Calgary for a quick 1 hour layover. The flight was delayed in london for 2hrs and westjet bought me a continental breakfast and an overnight stay at the airports nicest hotel. Honestly, the overnight was appreciated as I got my belly filled and arrived early the next morning with a good nights sleep. I roomed with this random guy, Rivanshu, and he made me tea and gave me some of his snacks! Always be nice to your neighbour!</p>
          <p className="text-xl leading-relaxed">Landing in Victoria after 13 hours of travel, I was instantly greeted by all the friends who we were staying with! All stoked up, we jumped into a van and headed onto the ferry to Galiano island. There the sun melted us and the west coast air filled nostrils, a tad salty!</p>
          <p className="text-xl leading-relaxed">We are here until the 7th of September for a friends wedding in Comox. A Bilbo Baggins event!</p>
-         <p className="text-xl leading-relaxed"></p>8.27.2025 nomadicness is nice</p>
+         <p className="text-xl leading-relaxed">8.27.2025 nomadicness is nice</p>
       </div>
      </main>
   );
