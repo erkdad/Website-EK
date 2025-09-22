@@ -11,7 +11,7 @@ export default function W18() {
          <p> <img src="/images/W18/perg.jpg" alt="Description of Image6"></img></p>
          <p> <img src="/images/W18/per.jpg" alt="Description of Image6"></img></p>
          <p className="text-xl leading-relaxed">2 other paintings i did this week in the blue mountains!</p>
-         <p> <img src="/images/W18/8by10jpg" alt="Description of Image6"></img></p>
+         <p> <img src="/images/W18/8by10.jpg" alt="Description of Image6"></img></p>
          <p> <img src="/images/W18/12by16.jpg" alt="Description of Image6"></img></p>
         
          

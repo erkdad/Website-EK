@@ -38,21 +38,21 @@ export const featuredImages: ImageJSON[] = [
 ];
 
 export const mainGalleryImages: ImageJSON[] = [
-  {
-    id: 7,
-    thumbnailURL: "/images/Satelite.jpg",
-    fullSizeURL: "/images/Satelite.jpg",
-    alt: "Image 7",
-    title: "Satelite",
-    description: "Hacking Satelite",
-  },
-  {
+    {
     id: 4,
     thumbnailURL: "/images/Tree Portrait.jpg",
     fullSizeURL: "/images/Tree Portrait.jpg",
     alt: "Image 4",
     title: "Tree Portrait",
     description: "Behind Brescia Campus before the rain. 9x12 Oil",
+  },
+  {
+    id: 7,
+    thumbnailURL: "/images/W18/perg.jpg",
+    fullSizeURL: "/images/W18/perg.jpg",
+    alt: "Image 7",
+    title: "Collingwood Pergola",
+    description: "First morning meeting. 9x12 Oil",
   },
   {
     id: 5,
@@ -78,4 +78,12 @@ export const mainGalleryImages: ImageJSON[] = [
     title: "Willamina's Tree",
     description: "Stopped on the side of the road to paint the tree",
   }, 
+  {
+    id: 9,
+    thumbnailURL: "/images/W18/per.jpg",
+    fullSizeURL: "/images/W2/W18/per.jpg",
+    alt: "Image 9",
+    title: "Grain Mill",
+    description: "Grain Mill in Collingwood. 9x12",
+  },
 ];
