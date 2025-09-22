@@ -81,7 +81,7 @@ export const mainGalleryImages: ImageJSON[] = [
   {
     id: 9,
     thumbnailURL: "/images/W18/per.jpg",
-    fullSizeURL: "/images/W2/W18/per.jpg",
+    fullSizeURL: "/images/W18/per.jpg",
     alt: "Image 9",
     title: "Grain Mill",
     description: "Grain Mill in Collingwood. 9x12",
