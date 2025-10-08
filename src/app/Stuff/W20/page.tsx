@@ -5,7 +5,7 @@ export default function W20() {
      <main className="flex w-full">
       <div className="flex w-full max-w-[2100px] flex-col space-y-6">
 
-         <p className="text-xl leading-relaxed">Week 20 dawgie</p>
+         <p className="text-xl leading-relaxed">Week 20 dawgiee</p>
          <p className="text-xl leading-relaxed">This marks 20 weeks of writing this online journal, otherwise known as the &quot;blog&quot;. I'm happy with how its going as it is giving me time to slow down and remind me of the important things. Even though I'm writing this entry a bit late, I know my winter commitment to this writing will only get stronger.</p>
          <p className="text-xl leading-relaxed">This summer has been a very busy summer. I think living farther away from London tends to have me plan my weekends way ahead of the actual time. I think next year, ill have to give a bit more respect to keeping weekends open so as to not burn out. I want to spend more time in the places I'm living, meeting new people and expanding my lifestyle up here. I think that was the whole purpose of moving here in the first place. I am happy with this summer but this current reflection is hoping for a new thought for next summer.</p>
          <p className="text-xl leading-relaxed">Over the past week, we looked at a potential year lease home, I visited muskoka, ran an gruelling ultra, and hosted another collingwood painters club.</p>
