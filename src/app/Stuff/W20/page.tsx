@@ -19,12 +19,6 @@ export default function W20() {
          <p> <img src="/images/W20/IMG_9391.jpg" alt="Description of Image6"></img></p>
          <p> <img src="/images/W20/IMG_9389.jpg" alt="Description of Image6"></img></p>
          <p className="text-xl leading-relaxed">Anyway, happy 20 weeks! See you at 30.</p>
-         
-
-
-
-
-         <p> <img src="/images/W19/APL.jpg" alt="Description of Image6"></img></p>
       
          <p className="text-xl leading-relaxed">10.07.2025 Patience and intention</p>
       </div>
