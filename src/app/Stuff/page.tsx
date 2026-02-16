@@ -26,6 +26,14 @@ export default function Stuff() {
               onClick={() => router.push("/Stuff/Photos")}
             />
             <Image
+              src="/images/month3.svg"
+              alt="Stuff"
+              width={200}
+              height={100}
+              className="cursor-pointer"
+              onClick={() => router.push("/Stuff/M03")}    
+            />
+            <Image
               src="/images/Month2.svg"
               alt="Stuff"
               width={200}
