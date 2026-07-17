@@ -14,8 +14,8 @@ export const featuredImages: ImageJSON[] = [
   {
     id: 4,
     thumbnailURL: "/images/paintings072026/BaldyGrassland.jpg",
-    fullSizeURL: "/images/paintings07/2026/BaldyGrassland.jpg",
-    alt: "Image 4",
+    fullSizeURL: "/images/paintings072026/BaldyGrassland.jpg",
+    alt: "Image 5",
     title: "Grasslands at Baldy",
     description: "Evening light at the base of Old Baldy. 16x20",
   },
@@ -41,8 +41,8 @@ export const mainGalleryImages: ImageJSON[] = [
   {
     id: 4,
     thumbnailURL: "/images/paintings072026/BaldyGrassland.jpg",
-    fullSizeURL: "/images/paintings07/2026/BaldyGrassland.jpg",
-    alt: "Image 4",
+    fullSizeURL: "/images/paintings072026/BaldyGrassland.jpg",
+    alt: "Image 5",
     title: "Grasslands at Baldy",
     description: "Evening light at the base of Old Baldy. 16x20",
   },
